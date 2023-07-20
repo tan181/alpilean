@@ -66,7 +66,7 @@
           <div class="u-layout">
             <div class="u-layout-row">
               <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-1">
-                <div class="u-container-layout u-container-layout-1">
+                <div class="u-container-layout u-valign-top-xs u-container-layout-1">
                   <h2 class="u-text u-text-default u-text-1">
                     <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-4-light-1 u-btn-1" data-href="https://shorturl.at/rBDFK" href="https://vclit.com/alpjuly">
                       <span style="font-size: 72px;">ALPILEAN</span>
@@ -106,7 +106,7 @@
     </section>
     <section class="u-align-center u-clearfix u-section-3" id="sec-9aed">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <img class="u-expanded-width u-image u-image-default u-image-1" src="images/Alpilean-prices11.png" alt="" data-image-width="1222" data-image-height="808" data-href="https://vclit.com/alpjuly">
+        <img class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xl u-image u-image-default u-image-1" src="images/Alpilean-prices11.png" alt="" data-image-width="1222" data-image-height="808" data-href="https://vclit.com/alpjuly">
         <h3 class="u-text u-text-palette-4-dark-1 u-text-1"> Discover the Resounding Success of Alpilean According to Those Who Have Experienced It!</h3>
         <p class="u-text u-text-2">
           <span style="font-weight: 700;"> Noreh is 35 ​34 lbs down and looking fabulous!</span>&nbsp;"My daughter used to worry about kids teasing her because of my weight, but with Alpilean, I've transformed myself, and now she proudly calls me her mom. I feel incredible, fitting into jeans from 15 years ago. Thank you for making me a happier, healthier me"<br>
@@ -120,7 +120,7 @@
         <img class="u-expanded-width u-image u-image-2" src="images/dd.png" data-image-width="1869" data-image-height="133">
         <p class="u-text u-text-palette-4-dark-1 u-text-3"> Unlock Extraordinary Perks! Order 3 or 6 Bottles and Receive 3 Incredible Bonuses! Enjoy FREE SHIPPING Too!
 *Join the 97% of Satisfied Customers Opting for 6 Bottles (Our Highly Recommended Choice)</p>
-        <a href="https://vclit.com/alpjuly" class="u-black u-btn u-button-style u-btn-1"> YES, GIVE ME MY DISCOUNT LINK!</a>
+        <a href="https://vclit.com/alpjuly" class="u-border-none u-btn u-button-style u-palette-4-base u-btn-1"> YES, GIVE ME MY DISCOUNT LINK!</a>
       </div>
     </section>
     
